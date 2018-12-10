@@ -1,7 +1,3 @@
-# ES6 Basic Concepts
-
-Simple ES6 concepts that you may (or may not) already know.
-
 ## Destructuring
 
 Destructuring allows you to extract values from an array or object by specifying the elements to be extracted on LHS. Example:
